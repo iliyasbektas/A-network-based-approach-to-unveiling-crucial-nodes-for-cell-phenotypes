@@ -1,5 +1,5 @@
 # A-network-based-approach-to-unveiling-crucial-nodes-for-cell-phenotypes
-The objective of this project is to identify switch genes in Prostate adenocarcinoma gene expression data from the TCGA database by using 
+The objective of this project is to identify switch genes in Prostate adenocarcinoma gene expression data from the TCGA database. 
 In complex network analysis, switch genes are hubs that are not only characterized by a
 marked negative correlation with their first nearest neighbors, but also distinguished by an
 unusual pattern of intra- and inter-module connections that gives them a crucial topological role,
